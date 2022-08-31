@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <a href="https://vetri-suriya.web.app/clone-projects/ableton/">Preview</a> |
+    <a href="https://rvs-ableton-clone.onrender.com/">Preview</a> |
     <a href="https://codepen.io/vetrisuriya/pen/oNGoQzP">Codepen</a> |
     <a href="https://github.com/vetrisuriya/ableton-clone">Github</a>
   </h3>
